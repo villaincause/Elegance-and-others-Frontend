@@ -1,0 +1,275 @@
+[
+  {
+    "id": "1",
+    "name": "Relaxed Blazer",
+    "price": 348,
+    "imageUrl": "relaxed-blazer.jpg",
+    "category": "Outerwear",
+    "colors": [
+      {
+        "name": "Beige",
+        "hex": "#D2B48C"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "isNew": true,
+    "reviews": [
+      {
+        "user": "Sarah M.",
+        "rating": 5,
+        "date": "MARCH 12, 2024",
+        "title": "STUNNING QUALITY",
+        "comment": "The material is even better in person. The weight of the fabric is perfect for the season.",
+        "id": "rev-1-0"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Alpaca Wool Cropped Cardigan",
+    "price": 248,
+    "imageUrl": "alpaca-cardigan.jpg",
+    "images": [
+      "alpaca-cardigan-back.jpg",
+      "alpaca-cardigan-detail.jpg",
+      "alpaca-cardigan-model.jpg"
+    ],
+    "category": "Knitwear",
+    "colors": [
+      {
+        "name": "Oatmeal",
+        "hex": "#E5D3B3"
+      },
+      {
+        "name": "Grey",
+        "hex": "#808080"
+      },
+      {
+        "name": "Tan",
+        "hex": "#D2B4DE"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "reviews": [
+      {
+        "user": "Elena G.",
+        "rating": 4,
+        "date": "JANUARY 15, 2024",
+        "title": "BEAUTIFUL BUT RUNS LARGE",
+        "comment": "I love the design but I suggest sizing down if you want a more tailored look.",
+        "id": "rev-2-0"
+      },
+      {
+        "user": "Chloe W.",
+        "rating": 5,
+        "date": "MARCH 20, 2024",
+        "title": "NEW FAVORITE PIECE",
+        "comment": "This has become a staple in my wardrobe. I get compliments every time I wear it.",
+        "id": "rev-2-1"
+      },
+      {
+        "user": "Julian L.",
+        "rating": 5,
+        "date": "FEBRUARY 28, 2024",
+        "title": "PERFECT FIT",
+        "comment": "Exactly as pictured. The dimensions are true to the size guide. Highly recommend.",
+        "id": "rev-2-2"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Classic Pant",
+    "price": 58,
+    "imageUrl": "classic-pant.jpg",
+    "category": "Pants",
+    "colors": [
+      {
+        "name": "Brown",
+        "hex": "#A52A2A"
+      }
+    ],
+    "sizes": [
+      "24",
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "reviews": [
+      {
+        "user": "Julian L.",
+        "rating": 5,
+        "date": "FEBRUARY 28, 2024",
+        "title": "PERFECT FIT",
+        "comment": "Exactly as pictured. The dimensions are true to the size guide. Highly recommend.",
+        "id": "rev-3-0"
+      },
+      {
+        "user": "Chloe W.",
+        "rating": 5,
+        "date": "MARCH 20, 2024",
+        "title": "NEW FAVORITE PIECE",
+        "comment": "This has become a staple in my wardrobe. I get compliments every time I wear it.",
+        "id": "rev-3-1"
+      },
+      {
+        "user": "Elena G.",
+        "rating": 4,
+        "date": "JANUARY 15, 2024",
+        "title": "BEAUTIFUL BUT RUNS LARGE",
+        "comment": "I love the design but I suggest sizing down if you want a more tailored look.",
+        "id": "rev-3-2"
+      }
+    ]
+  },
+  {
+    "id": "relaxed-blazer-01",
+    "name": "Relaxed Blazer",
+    "price": 348,
+    "category": "Outerwear",
+    "imageUrl": "relaxed-blazer-main.jpg",
+    "images": [
+      "relaxed-blazer-alt1.jpg",
+      "relaxed-blazer-alt2.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Beige",
+        "hex": "#D2B48C"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "reviews": [
+      {
+        "user": "Julian L.",
+        "rating": 5,
+        "date": "FEBRUARY 28, 2024",
+        "title": "PERFECT FIT",
+        "comment": "Exactly as pictured. The dimensions are true to the size guide. Highly recommend.",
+        "id": "rev-relaxed-blazer-01-0"
+      }
+    ]
+  },
+  {
+    "id": "oversized-trench-02",
+    "name": "Oversized Trench",
+    "price": 450,
+    "category": "Outerwear",
+    "imageUrl": "trench-main.jpg",
+    "images": [],
+    "colors": [
+      {
+        "name": "Khaki",
+        "hex": "#C3B091"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "reviews": [
+      {
+        "user": "Julian L.",
+        "rating": 5,
+        "date": "FEBRUARY 28, 2024",
+        "title": "PERFECT FIT",
+        "comment": "Exactly as pictured. The dimensions are true to the size guide. Highly recommend.",
+        "id": "rev-oversized-trench-02-0"
+      }
+    ]
+  },
+  {
+    "id": "wool-cardigan-03",
+    "name": "Wool Cardigan",
+    "price": 210,
+    "category": "Outerwear",
+    "imageUrl": "cardigan-main.jpg",
+    "images": [],
+    "colors": [
+      {
+        "name": "Grey",
+        "hex": "#808080"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "reviews": [
+      {
+        "user": "Sarah M.",
+        "rating": 5,
+        "date": "MARCH 12, 2024",
+        "title": "STUNNING QUALITY",
+        "comment": "The material is even better in person. The weight of the fabric is perfect for the season.",
+        "id": "rev-wool-cardigan-03-0"
+      },
+      {
+        "user": "Elena G.",
+        "rating": 4,
+        "date": "JANUARY 15, 2024",
+        "title": "BEAUTIFUL BUT RUNS LARGE",
+        "comment": "I love the design but I suggest sizing down if you want a more tailored look.",
+        "id": "rev-wool-cardigan-03-1"
+      },
+      {
+        "user": "Julian L.",
+        "rating": 5,
+        "date": "FEBRUARY 28, 2024",
+        "title": "PERFECT FIT",
+        "comment": "Exactly as pictured. The dimensions are true to the size guide. Highly recommend.",
+        "id": "rev-wool-cardigan-03-2"
+      }
+    ]
+  },
+  {
+    "id": "silk-midi-dress-04",
+    "name": "Silk Midi Dress",
+    "price": 280,
+    "category": "Dresses",
+    "imageUrl": "dress-main.jpg",
+    "images": [],
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#000080"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "reviews": [
+      {
+        "user": "Elena G.",
+        "rating": 4,
+        "date": "JANUARY 15, 2024",
+        "title": "BEAUTIFUL BUT RUNS LARGE",
+        "comment": "I love the design but I suggest sizing down if you want a more tailored look.",
+        "id": "rev-silk-midi-dress-04-0"
+      }
+    ]
+  }
+]

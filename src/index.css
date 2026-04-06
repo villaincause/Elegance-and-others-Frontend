@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  --color-brand-bg: #e0f2fe; /* Declaring here ensures inline styles work */
+  font-family: "Lexend Giga", sans-serif;
+  letter-spacing: -0.02em;
+}
+
+@theme {
+  --font-sans: "Lexend Giga", ui-sans-serif, system-ui;
+  --color-brand-bg: #e0f2fe;
+}
+
+body {
+  background-color: var(--color-brand-bg);
+  font-family: 'Lexend Giga', sans-serif;
+  color: #1a1a1a;
+  margin: 0;
+}
